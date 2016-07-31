@@ -1,6 +1,6 @@
 {
   "name": "Notes on Machine Learning",
   "tagline": "machine learning, deep learning, neural networks",
-  "body": "### Notes on Machine Learning\r\nThis is a website that I will use throughout 2016 Summer while I do my internship and learn about Machine Learning, with focus on Deep Learning. The information that I find interesting will be shared here so that I will have a history and notes of subjects that I fiddled with.\r\n\r\ne.g. this is the paper that revolutionized deep learning by breaking 5 separate records for several datasets:\r\nhttp://arxiv.org/pdf/1207.0580.pdf",
+  "body": "### Introduction\r\n\r\nThis is a website that I will use throughout 2016 Summer while I do my internship and learn about Machine Learning, with focus on Deep Learning. The information that I find interesting will be shared here so that I will have a history and notes of subjects that I fiddled with.\r\n\r\ne.g. this is the paper that revolutionized deep learning by breaking 5 separate records for several datasets:\r\nhttp://arxiv.org/pdf/1207.0580.pdf",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
